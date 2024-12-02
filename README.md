@@ -8,11 +8,7 @@ Library : - SweetAlert (Javascript) - FPDF (Laporan)
 
 # Login Admin
   user & pass : admin
+  
 # Login User
   user: ali
   pass: 123
-  
-# Team Support
-  Ali - Fahri - Inka - Furkan
-# project_akhir_web2
-# project_akhir_web2
