@@ -83,7 +83,7 @@ CREATE TABLE IF NOT EXISTS `login` (
 --
 
 INSERT INTO `login` (`username`, `password`) VALUES
-('admin', '21232f297a57a5a743894a0e4a801fc3');
+('admin', '123');
 
 -- --------------------------------------------------------
 
